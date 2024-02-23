@@ -1,0 +1,28 @@
+.main  h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+.list ul li{
+    list-style: none;
+    
+}
+table{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    color: blue;
+    background-image:url(../Gift/img/cat2.png);
+    background-size: contain;
+    border-collapse: collapse;
+}
+ th{
+    text-align: center;
+    border-top: 4px dotted red;
+}
+p{
+    background-image: url(../Gift/img/cat2.png);
+    background-size: contain ;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
